@@ -1,4 +1,4 @@
-## Olá, tudo bem com vocês? Sou a Thaís de Lima e há mais de nove anos, atuo como analista de suporte e desenvolvedora web. Sou bacharel em Análise de Sistema pela UNIBAN (Universidade Bandeirante de São Paulo).
+## Olá, tudo bem com vocês? Sou a Thaís de Lima e há mais de dez anos, atuo como analista de suporte e desenvolvedora web. Sou bacharel em Análise de Sistema pela UNIBAN (Universidade Bandeirante de São Paulo).
 
 ## Utilizo o WordPress desde 2014 e sou fundadora da Inftek Tecnologia, empresa que engloba toda parte de suporte web e infraestrutura.
 
